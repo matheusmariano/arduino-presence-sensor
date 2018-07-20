@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/matheus/.platformio/penv/bin:/Users/matheus/.platformio/penv:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/MacGPG2/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
